@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/hcmus-logo.png" alt="icon"></img>
+  <img src="https://www.hcmus.edu.vn/images/logo_KHTN_WEB.png" alt="icon"></img>
   <br>
   <b>HCMUS Project Org</b>
 </h1>
